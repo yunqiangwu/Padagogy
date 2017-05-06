@@ -1,0 +1,19 @@
+{
+  "generator-plugin-wp": {
+    "name": "Padagogy",
+    "homepage": "https://github.com/yunqiangwu/Padagogy",
+    "description": "Padagogy website",
+    "version": "0.0.0",
+    "author": "wayne",
+    "authoremail": "jajabjbj@gmail.com",
+    "authorurl": "https://github.com/yunqiangwu/Padagogy",
+    "license": "GPLv2",
+    "slug": "padagogy",
+    "classname": "Padagogy",
+    "mainclassname": "Padagogy",
+    "classprefix": "P_",
+    "prefix": "padagogy",
+    "year": 2017,
+    "currentVersionWP": "4.7.2"
+  }
+}
